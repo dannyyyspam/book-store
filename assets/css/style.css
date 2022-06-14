@@ -16,7 +16,7 @@
 }
 
 *{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;loader
     margin:0; padding:0;
     box-sizing: border-box;
     outline: none; border:none;
@@ -749,7 +749,7 @@ section{
 }
 
 .loader-container img{
-    height:10rem;
+    height:15rem;
 }
 
 /* media queries  */
